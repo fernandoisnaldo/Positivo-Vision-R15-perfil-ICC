@@ -6,7 +6,7 @@ O meu calibrador de tela ainda não chegou, então enquanto isso, eu recomendo u
 Link para o Bluish.icc:
 https://github.com/OpenICC/xcalib/blob/master/bluish.icc
 
-Nenhum perfil de cores publicado neste repositório, tem garantia expressa de quem o disponibilizou.
+Nenhum perfil de cores publicado neste repositório, tem garantia expressa ou implícita de quem o disponibilizou.
 
 Não há nenhuma promessa no tocante a fazer o laptop ser destinado a qualquer meio de produção audiovisual, pois este laptop não foi feito pra esta finalidade, então caso você trabalhe com isso, compre um laptop feito para isso ou um monitor profissional.
 
