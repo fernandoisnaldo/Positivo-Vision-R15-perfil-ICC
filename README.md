@@ -1,5 +1,5 @@
 # Positivo-Vision-R15-perfil-ICC
-Repositório criado com objetivo de disponibilizar um perfil icc para corrigir o balanço de branco de alguns lotes do laptop Positivo Vision R15, que tem um tom muito mais alaranjado.
+Repositório criado com objetivo de disponibilizar um perfil icc para tentar corrigir o balanço de branco de alguns lotes do laptop Positivo Vision R15, que tem um tom muito mais alaranjado.
 
 O meu calibrador de tela ainda não chegou, então enquanto isso, eu recomendo utilizar o perfil Bluish.icc como alternativa provisória para o balanço de branco, até termos uma solução um pouco melhor.
 
