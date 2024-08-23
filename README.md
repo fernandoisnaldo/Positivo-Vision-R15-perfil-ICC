@@ -12,5 +12,5 @@ Não há nenhuma promessa no tocante a fazer o laptop ser destinado a qualquer m
 
 O perfil icc deste repositório não será corrigido conforme relatos do usuário, e nem atualizado, sendo somente publicado 1 única vez de acordo com as condições específicas do meu modelo.
 
-*TODO*
+*TODO:*
 publicar perfil icc
