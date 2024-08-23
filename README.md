@@ -8,6 +8,6 @@ https://github.com/OpenICC/xcalib/blob/master/bluish.icc
 
 Nenhum perfil de cores publicado neste repositório, tem garantia expressa de quem o disponibilizou.
 
-Não há nenhuma promessa no tocante a fazer o laptop ser destinado ao uso em design gráfico ou qualquer meio de produção audiovisual, pois este laptop não foi feito pra esta finalidade.
+Não há nenhuma promessa no tocante a fazer o laptop ser destinado a qualquer meio de produção audiovisual, pois este laptop não foi feito pra esta finalidade.
 
 O perfil icc deste repositório não será corrigido conforme relatos do usuário, e nem atualizado, sendo somente publicado 1 única vez de acordo com as condições específicas do meu modelo.
