@@ -4,7 +4,7 @@ Repositório criado com objetivo de disponibilizar um perfil icc para tentar cor
 O meu calibrador de tela ainda não chegou, então enquanto isso, eu recomendo utilizar o perfil Bluish.icc como alternativa provisória para o balanço de branco, até termos uma solução um pouco melhor.
 
 Link para o Bluish.icc:
-https://github.com/OpenICC/xcalib/blob/master/bluish.icc (aviso: este perfil não foi gerado por mim e nem foi feito pra este laptop, aguardem atualizações do meu repositório)
+https://github.com/OpenICC/xcalib/blob/master/bluish.icc (este perfil não foi gerado por mim e nem foi feito pra este laptop, aguardem atualizações do meu repositório para melhor resultado)
 
 Nenhum perfil de cores publicado neste repositório, tem garantia expressa ou implícita de quem o disponibilizou.
 
