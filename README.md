@@ -32,3 +32,6 @@ Isso não impede uma mudança de balanço de branco, mas implica em questões qu
 Estas observações foram feitas usando a seguinte imagem:
 ![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/rgb.png)
 Nota: Esta imagem acima não é uma foto do meu monitor, mas sim uma imagem usada de referência pra teste visual de subpixels, o que você vai ver é de acordo com as configurações do seu monitor e também pode variar conforme a sua própria percepção de cores.
+
+A foto do meu monitor é essa aqui: (não garanto isso com 100% de precisão de cores, pois esta foto não foi feita com auxílio de instrumento calibrado)
+![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/foto%20do%20meu%20monitor.jpg)
