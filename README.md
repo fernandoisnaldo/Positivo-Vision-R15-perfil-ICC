@@ -35,3 +35,5 @@ Nota: Esta imagem acima não é uma foto do meu monitor, mas sim uma imagem usad
 
 A foto do meu monitor é essa aqui: (não garanto isso com 100% de precisão de cores, pois esta foto não foi feita com auxílio de instrumento calibrado)
 ![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/foto%20do%20meu%20monitor.jpg)
+
+A minha foto será atualizada assim que eu tiver o meu calibrador Spyder X Pro, para melhorar a qualidade da documentação e puder configurar a foto pra ser mais fiel à realidade.
