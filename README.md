@@ -14,7 +14,7 @@ Nenhum perfil de cores, imagem ou documentação publicado neste repositório, t
 
 Não há nenhuma promessa no tocante a fazer o laptop ser destinado a qualquer meio de produção audiovisual, pois este laptop não foi feito pra esta finalidade, então caso você trabalhe com isso, compre um laptop feito para isso ou um monitor profissional.
 
-O perfil icc deste repositório não será corrigido e nem atualizado, sendo somente publicado 1 única vez de acordo com as condições específicas do meu laptop. Caso o meu perfil icc não resolva o seu problema, eu recomendo fazer a sua própria calibração ou enviar o produto para a garantia.
+O perfil icc deste repositório não será corrigido e nem atualizado, sendo somente publicado 1 única vez de acordo com as condições específicas do meu laptop. Caso o meu perfil icc não resolva o seu problema, eu recomendo fazer a sua própria calibração ou trocar o produto.
 
 *TODO:*
 publicar perfil icc
