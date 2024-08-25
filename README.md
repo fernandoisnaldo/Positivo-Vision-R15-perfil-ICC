@@ -20,9 +20,9 @@ Atualização de 25 de Agosto, após analisar uma imagem que eu criei com as cor
 
 Características observadas no monitor, que independem do perfil de cores utilizados, que são do próprio hardware e que eu mesmo consegui percebi.
 
-Os subpixels azuis estão corretos e representam de fato a cor azul.
-Os subpixels verdes estão puxados pro verde-limão (ou seja, sensivelmente mais amarelados em comparação com a maioria dos monitores).
-Os subpixels vermelhos estão levemente puxados pra uma cor levemente alaranjada, mas que ainda dá pra chamar de vermelho.
+  Os subpixels azuis estão corretos e representam de fato a cor azul.
+  Os subpixels verdes estão puxados pro verde-limão (ou seja, sensivelmente mais amarelados em comparação com a maioria dos monitores).
+  Os subpixels vermelhos estão levemente puxados pra uma cor levemente alaranjada, mas que ainda dá pra chamar de vermelho.
 
 Isso implica que a reprodução de cores pode ser sensivelmente limitada pelos subpixels verdes, puxando naturalmente tons mais amarelados.
 
