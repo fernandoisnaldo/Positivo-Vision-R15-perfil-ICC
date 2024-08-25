@@ -20,7 +20,7 @@ Atualização de 25 de Agosto, após analisar uma imagem que eu criei com as cor
 ![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/rgb.png)
 Nota: Esta imagem acima não é uma foto do meu monitor, mas sim uma imagem usada de referência pra teste de subpixels. O que você vai ver é de acordo com as configurações do seu monitor.
 
-#Características observadas no monitor, que independem do perfil de cores utilizados, que são do próprio hardware e que eu mesmo consegui perceber
+# Características observadas no monitor, que independem do perfil de cores utilizados, que são do próprio hardware e que eu mesmo consegui perceber
 
   Os subpixels azuis estão corretos e representam de fato a cor azul.
   
