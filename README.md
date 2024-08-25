@@ -17,7 +17,7 @@ publicar perfil icc
 
 
 Atualização de 25 de Agosto, após analisar uma imagem que eu criei com as cores vermelho (#ff0000), azul(#00ff00) e verde(#0000ff).
-![Texto Alternativo](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/rgb.png)
+![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/rgb.png)
 
 Características observadas no monitor, que independem do perfil de cores utilizados, que são do próprio hardware e que eu mesmo consegui percebi.
 
