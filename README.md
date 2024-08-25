@@ -37,3 +37,5 @@ A foto do meu monitor é essa aqui: (não garanto isso com 100% de precisão de 
 ![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/foto%20do%20meu%20monitor.jpg)
 
 A minha foto será atualizada assim que eu tiver o meu calibrador Spyder X Pro, para melhorar a qualidade da documentação e puder configurar a foto pra ser mais fiel à realidade.
+
+Por sorte, eu tenho um PC de mesa com monitor Samsung UR550, que apesar de não ser profissional, é um monitor que eu posso futuramente calibrar e deixar com configurações próximas de um.
