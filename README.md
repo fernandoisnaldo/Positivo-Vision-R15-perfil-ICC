@@ -16,9 +16,6 @@ O perfil icc deste repositório não será corrigido e nem atualizado, sendo som
 publicar perfil icc
 
 
-Atualização de 25 de Agosto, após analisar uma imagem que eu criei com as cores vermelho (#ff0000), azul(#00ff00) e verde(#0000ff).
-![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/rgb.png)
-Nota: Esta imagem acima não é uma foto do meu monitor, mas sim uma imagem usada de referência pra teste de subpixels. O que você vai ver é de acordo com as configurações do seu monitor.
 
 # Características observadas no monitor, que independem do perfil de cores utilizados, que são do próprio hardware e que eu mesmo consegui perceber
 
@@ -31,3 +28,7 @@ Nota: Esta imagem acima não é uma foto do meu monitor, mas sim uma imagem usad
 Isso implica que a reprodução de cores pode ser sensivelmente limitada pelos subpixels verdes, puxando naturalmente tons mais amarelados.
 
 Isso não impede uma mudança de balanço de branco, mas implica em questões que são do próprio hardware mesmo.
+
+Estas observações foram feitas usando a seguinte imagem:
+![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/rgb.png)
+Nota: Esta imagem acima não é uma foto do meu monitor, mas sim uma imagem usada de referência pra teste visual de subpixels, o que você vai ver é de acordo com as configurações do seu monitor e também pode variar conforme a sua própria percepção de cores.
