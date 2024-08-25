@@ -18,11 +18,14 @@ publicar perfil icc
 
 Atualização de 25 de Agosto, após analisar uma imagem que eu criei com as cores vermelho (#ff0000), azul(#00ff00) e verde(#0000ff).
 ![Imagem RGB](https://github.com/fernandoisnaldo/Projeto-icc-RDS-220/blob/main/rgb.png)
+Nota: Esta imagem acima não é uma foto do meu monitor, mas sim uma imagem usada de referência pra teste de subpixels. O que você vai ver é de acordo com as configurações do seu monitor.
 
-Características observadas no monitor, que independem do perfil de cores utilizados, que são do próprio hardware e que eu mesmo consegui percebi.
+#Características observadas no monitor, que independem do perfil de cores utilizados, que são do próprio hardware e que eu mesmo consegui perceber
 
   Os subpixels azuis estão corretos e representam de fato a cor azul.
+  
   Os subpixels verdes estão puxados pro verde-limão (ou seja, sensivelmente mais amarelados em comparação com a maioria dos monitores).
+  
   Os subpixels vermelhos estão levemente puxados pra uma cor levemente alaranjada, mas que ainda dá pra chamar de vermelho.
 
 Isso implica que a reprodução de cores pode ser sensivelmente limitada pelos subpixels verdes, puxando naturalmente tons mais amarelados.
