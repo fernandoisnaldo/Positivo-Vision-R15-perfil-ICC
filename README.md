@@ -1,5 +1,5 @@
 # PositivoVR15.icc
-Repositório criado com objetivo de disponibilizar um perfil icc para tentar corrigir o balanço de branco e a reprodução de cores de alguns lotes do laptop Positivo Vision R15, que tem um tom mais alaranjado.
+Repositório criado com objetivo de disponibilizar um perfil icc para tentar corrigir a reprodução de cores de alguns lotes do laptop Positivo Vision R15, que tem um tom mais alaranjado e com um gama que dificulta a distinção das cores.
 
 Antes de prosseguir, segue um aviso:
 
