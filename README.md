@@ -1,7 +1,7 @@
 # PositivoVR15.icc
 Antes de prosseguir, segue um aviso:
 
-Este repositório não serve de referência para todos os Positivo Vision R15, pois a tela pode variar sem que deixe de ser full HD IPS, além de que todo monitor tende a mudar ligeiramente a reprodução de cores conforme desgaste natural de uso e conforme a forma que foi fabricado; caso o seu laptop seja um Positivo Vision R15 e ele tenha características diferentes da que eu citei, então a minha documentação e meus arquivos não estão de acordo com o seu problema e devem ser desconsiderados para a sua unidade.
+Este repositório não serve de referência para todos os Positivo Vision R15, pois a tela pode variar sem que deixe de ser full HD IPS, além de que todo monitor tende a mudar ligeiramente a reprodução de cores conforme desgaste natural de uso e conforme a forma que foi fabricado;
 
 Repositório criado com objetivo de disponibilizar um perfil icc para tentar corrigir o balanço de branco de alguns lotes do laptop Positivo Vision R15, que tem um tom mais alaranjado.
 
