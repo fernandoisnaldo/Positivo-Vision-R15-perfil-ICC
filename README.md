@@ -1,9 +1,9 @@
 # PositivoVR15.icc
+Repositório criado com objetivo de disponibilizar um perfil icc para tentar corrigir o balanço de branco de alguns lotes do laptop Positivo Vision R15, que tem um tom mais alaranjado.
+
 Antes de prosseguir, segue um aviso:
 
 Este repositório não serve de referência para todos os Positivo Vision R15, pois a tela pode variar sem que deixe de ser full HD IPS, além de que todo monitor tende a mudar ligeiramente a reprodução de cores conforme desgaste natural de uso e conforme a forma que foi fabricado;
-
-Repositório criado com objetivo de disponibilizar um perfil icc para tentar corrigir o balanço de branco de alguns lotes do laptop Positivo Vision R15, que tem um tom mais alaranjado.
 
 [Perfil ICC que obtive com branco mais equilibrado](https://github.com/fernandoisnaldo/Perfil-icc-rds220/blob/main/rds220-1.icc)
 
