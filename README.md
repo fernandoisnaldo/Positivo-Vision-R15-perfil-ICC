@@ -7,7 +7,7 @@ Repositório criado com objetivo de disponibilizar um perfil icc para tentar cor
 
 [Perfil ICC que obtive com branco mais equilibrado](https://github.com/fernandoisnaldo/Perfil-icc-rds220/blob/main/rds220-1.icc)
 
-[Perfil ICC que obtive com gama de cores de maior amplitude](https://github.com/fernandoisnaldo/Perfil-icc-rds220/blob/main/rds220-2.icc) - este tende a puxar um tom rosado, porque o verde desse laptop é fraco de qualquer maneira
+[Perfil ICC que obtive com gama de cores de maior amplitude](https://github.com/fernandoisnaldo/Perfil-icc-rds220/blob/main/rds220-2.icc) - este tende a puxar um tom rosado, por limitação dos subpixels verdes
 
 Nenhum perfil de cores, imagem ou documentação publicado neste repositório, tem garantia expressa ou implícita de quem o disponibilizou.
 
