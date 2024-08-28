@@ -18,7 +18,7 @@ Uma dica para saber se estes perfis ICC são potencialmente úteis pra você, é
 
 [Perfil de cores 6500K](https://github.com/fernandoisnaldo/Perfil-icc-rds220/blob/main/2807%20%231%202024-08-27%2014-37%20D6500%20L%20M-S%20XYZLUT%2BMTX.icc) 
 
-Todos os perfis de cores no meu laptop tem uma cobertura de 56% do padrão sRGB. (eu disse que não poderia prometer milagres, então desejo boa sorte a quem for utilizar)
+Todos os perfis de cores no meu laptop tem uma cobertura de 56% do padrão sRGB, e o branco não é perfeito devido às limitações dos subpixels verdes. (eu disse que não poderia prometer milagres, então desejo boa sorte a quem for utilizar)
 
 Para gerar estes perfis, foi usado o Datacolor Spyder X Pro e o programa DisplayCAL no sistema operacional Arch Linux.
 
