@@ -12,7 +12,7 @@ Não há nenhuma promessa no tocante a fazer o laptop ser destinado a qualquer m
 Os perfis icc deste repositório não serão corrigidos e nem atualizados, sendo somente publicado 1 única vez de acordo com as condições específicas do meu laptop na data de publicação. Caso o meu perfil icc não resolva o seu problema, eu recomendo fazer a sua própria calibração.
 
 Uma dica para saber se estes perfis ICC são potencialmente úteis pra você, é verificar se a cor verde (#00FF00) parece um verde-limão, caso contrário, nem tente.
-![Texto Alternativo](https://github.com/fernandoisnaldo/Vision-R15-icc-variante-rds-220/blob/main/%2300FF00.png)
+![Verde #00FF00](#00FF00-verde.png)
 
 [Perfil de cores 7300K](https://github.com/fernandoisnaldo/Perfil-icc-rds220/blob/main/2807%20%231%202024-08-27%2020-55%207300K%202.2%20(absolute)%20M-S%20XYZLUT%2BMTX.icc)
 
