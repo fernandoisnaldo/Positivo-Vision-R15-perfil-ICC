@@ -1,5 +1,5 @@
 # PositivoVR15.icc
-Repositório criado com objetivo de compensar o balanço de branco e o gama limitado do monitor do laptop Positivo Vision R15, porém sem prometer nenhum milagre.
+Repositório criado com objetivo de compensar o balanço de branco excessivamente amarelado e o gama limitado do monitor do laptop Positivo Vision R15, porém sem prometer nenhum milagre.
 
 Antes de prosseguir, segue um aviso:
 
