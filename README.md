@@ -1,4 +1,4 @@
-# Perfil icc para Positivo Vision R15 | variante RDS 220
+# Perfil icc para Positivo Vision R15
 Repositório criado com objetivo de tentar compensar o balanço de branco **excessivamente amarelado** e o gama estourado do monitor do meu laptop Positivo Vision R15, porém sem prometer nenhum milagre.
 
 Antes de prosseguir, segue um aviso:
